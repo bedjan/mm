@@ -11,6 +11,11 @@
 
 [T ](https://gist.github.com/bedjan/7bf41966fa76595ff625c1bee863e574/raw/011011db7bfad156d4d0931e47d4fc20cc01b680/tv_online.m3u)
 
+-----
+
+[TV all](https://github.com/freetuxtv/freetuxtv/blob/master/data/channels_groups.xml)
+
+-----
 [CZ TV ](http://database.freetuxtv.net/playlists/playlist_webtv_cs.m3u)
 
 [CZ RAD ](http://database.freetuxtv.net/playlists/playlist_webradio_cs.m3u)
