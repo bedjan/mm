@@ -1,6 +1,7 @@
 # mm
 -----
 ###VLC
+
 [Vlc -I ncurses ovládání](https://wiki.videolan.org/Documentation:Modules/ncurses/)
 
 [Display]
@@ -48,6 +49,7 @@ D, <del>    Delete an entry
 
 [Miscellaneous]
 Ctrl-l          Refresh the screen
+
 -----
 
 a) xterm  -fa 'Monospace' -fs 14 -geometry 80x20+60+150 -title Anglicka_radia -e bash -c "vlc -I ncurses  https://raw.githubusercontent.com/bedjan/mm/master/english_radia.m3u"
