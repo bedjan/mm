@@ -1,10 +1,17 @@
 # mm
 
+a) xterm  -fa 'Monospace' -fs 14 -geometry 80x20+60+150 -title Anglicka_radia -e bash -c "vlc -I ncurses  https://raw.githubusercontent.com/bedjan/mm/master/english_radia.m3u"
+
+b) vlc -I ncurses  https://raw.githubusercontent.com/bedjan/mm/master/english_radia.m3u
+
+c) vlc https://raw.githubusercontent.com/bedjan/mm/master/english_radia.m3u
+
 [R url ](https://gist.github.com/bedjan/bc31fbfc078ddaf0ea03160b8aa44b3d#file-radia-md)
 
 
 [R ](https://gist.githubusercontent.com/bedjan/4ce6c5f78e7d780e94d7d6dedfd66337/raw/b293c8866329666115e5c80f51c6287eb3b9f61c/radia_online.m3u)
 
+[Radia anglická](https://raw.githubusercontent.com/bedjan/mm/master/english_radia.m3u)
 
 [D ](https://gist.github.com/bedjan/11917d14b9209035c1aa21815c959837/raw/fd21daa89c2784404d465b2da8435f807142c4ad/difm.m3u)
 
