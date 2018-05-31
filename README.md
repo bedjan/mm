@@ -1,4 +1,54 @@
 # mm
+-----
+###VLC
+[Vlc -I ncurses ovládání](https://wiki.videolan.org/Documentation:Modules/ncurses/)
+
+[Display]
+h,H         Show/Hide help box
+i           Show/Hide info box
+L           Show/Hide messages box
+P           Show/Hide playlist box
+B           Show/Hide filebrowser
+
+[Global]
+q, Q        Quit
+s           Stop
+<space>     Pause/Play
+f           Toggle Fullscreen
+n, p        Next/Previous playlist item
+[, ]        Next/Previous title
+<, >        Next/Previous chapter
+<right>     Seek +1%
+<left>      Seek -1%
+a           Volume Up
+z           Volume Down
+
+[Playlist]
+r           Random
+l           Loop Playlist
+R           Repeat item
+o           Order Playlist by title
+O           Reverse order Playlist by title
+/           Look for an item
+A           Add an entry
+D, <del>    Delete an entry 
+<backspace> Delete an entry
+
+[Filebrowser]
+<enter>     Add the selected file to the playlist
+<space>     Add the selected directory to the playlist
+.           Show/Hide hidden files
+
+[Boxes]
+<up>,<down>     Navigate through the box line by line
+<pgup>,<pgdown> Navigate through the box page by page
+
+[Player]
+<up>,<down>     Seek +/-5%
+
+[Miscellaneous]
+Ctrl-l          Refresh the screen
+-----
 
 a) xterm  -fa 'Monospace' -fs 14 -geometry 80x20+60+150 -title Anglicka_radia -e bash -c "vlc -I ncurses  https://raw.githubusercontent.com/bedjan/mm/master/english_radia.m3u"
 
