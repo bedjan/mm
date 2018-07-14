@@ -3,6 +3,10 @@
  http://mp3stream4.abradio.cz:8000/humor.mp3
 #EXTINF: -1,Sky Radio 80's Hits
  http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3
+#EXTINF: -1,City 90
+ http://ice.abradio.cz/city90128.mp3
+ #EXTINF: -1,City 80
+ http://ice.abradio.cz/city80128.mp3
 #EXTINF: -1,Humor 128
  http://mp3stream4.abradio.cz:8000/humor128.mp3
 #EXTINF: -1,Cimrman 128
