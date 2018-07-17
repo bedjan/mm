@@ -16,11 +16,16 @@
 </head>
 
 <body>
-<a href="http://mp3stream4.abradio.cz:8000/humor.mp3">Radio Humor</a>
-  <audio controls>
-  <source src="http://mp3stream4.abradio.cz:8000/humor.mp3" type="audio/mpeg"  preload="metadata">
-    Tvůj webový prohlížeč nepodporuje přehrávání audio souborů, zkus jiní prohlížeč!
-  </audio>
+
+  
+  <audio id="player" controls src="http://mp3stream4.abradio.cz:8000/humor.mp3" type="audio/mpeg"  preload="metadata">Tvůj webový prohlížeč nepodporuje přehrávání audio souborů, zkus jiní prohlížeč!</audio>
+<div>
+	<button onclick="document.getElementById('player').play()">Hrej</button>
+	<button onclick="document.getElementById('player').pause()">Pauza</button>
+	<button onclick="document.getElementById('player').volume+=0.1">Hlasitost zvýšit</button>
+	<button onclick="document.getElementById('player').volume-=0.1">Hlasitost snížit</button>
+</div> 
+  
   
 </body>
 </html>
