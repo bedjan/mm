@@ -125,7 +125,7 @@ http://mp3stream4.abradio.cz/domino128.mp3
 http://www.radiogothic.net/play/radiogothic128.m3u 
 #EXTINF:0,Radio Gothic
 http://ice-03.lagardere.cz:80/web-gothic-128 
-#EXTINF:0,Radio Humor
+#EXTINF:0,Radio Humor 128
 http://mp3stream4.abradio.cz:8000/humor128.mp3 
 #EXTINF:0,Radio Krokodyl
 http://api.play.cz/radio/krokodyl128.asx 
