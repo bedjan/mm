@@ -27,14 +27,6 @@ http://mp3stream2.abradio.cz:8000/folk.mp3
 http://mp3stream4.abradio.cz/country128.mp3
 #EXTINF:0,Blanik
 http://ice.abradio.cz/blanikcz128.mp3
-#EXTINF:0,F1_hity
-http://ice-01.lagardere.cz/web-f1-cshity.m3u
-#EXTINF:0,F1_diskoteka
-http://ice-01.lagardere.cz/web-csdisko
-#EXTINF:0,F1_80
-http://ice-01.lagardere.cz/web-80
-#EXTINF:0,F1
-http://icecast4.play.cz:8000/frekvence1-128.mp3
 #EXTINF:0,Dechovka
 http://icecast5.play.cz:8000/dechovka128.mp3
 #EXTINF:0,Oldies
