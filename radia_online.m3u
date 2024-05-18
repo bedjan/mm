@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,Evropa 2
-http://icecast3.play.cz/evropa2-128.mp3
+http://ice.actve.net/fm-evropa2-128
+#EXTINF:0,Fun radio
+http://stream.funradio.sk:8000/cs128.mp3
 #EXTINF:0,Chillout
 http://mp3stream4.abradio.cz/chillout128.mp3
 #EXTINF:0,Humor 64
