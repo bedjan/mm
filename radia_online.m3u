@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0,Evropa 2
+http://icecast3.play.cz/evropa2-128.mp3
+#EXTINF:0,Chillout
+http://mp3stream4.abradio.cz/chillout128.mp3
 #EXTINF:0,Humor 64
 http://mp3stream4.abradio.cz:8000/humor.mp3
 #EXTINF:0,Radio Harmony FM DE 128 mp3
@@ -73,8 +77,6 @@ http://icecast2.play.cz/crohk128.mp3
 http://icecast5.play.cz:8000/dechovka128.mp3 
 #EXTINF:0,Drumandbass Radio
 http://ice3.abradio.cz/shadowbox128.mp3 
-#EXTINF:0,Evropa 2
-http://icecast3.play.cz/evropa2-128.mp3.m3u 
 #EXTINF:0,F1 CS 80ka
 http://ice-01.lagardere.cz/web-80 
 #EXTINF:0,F1 CS Disko
