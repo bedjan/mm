@@ -11,6 +11,8 @@ https://ice.abradio.cz/fajnfresh128.mp3
 http://ice.abradio.cz:8000/helax128.mp3
 #EXTINF:0,Cerna hora
 http://ice.abradio.cz/cernahora64.mp3
+#EXTINF:0,Rock radio
+https://ice.abradio.cz/rockradio128.mp3
 #EXTINF:0,Chillout
 http://mp3stream4.abradio.cz/chillout128.mp3
 #EXTINF:0,Humor 64
@@ -19,6 +21,8 @@ http://mp3stream4.abradio.cz:8000/humor.mp3
 http://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3
 #EXTINF:0,Sky Radio 80's Hits
 http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3
+#EXTINF:0,City milenium
+http://ice.abradio.cz:8000/hitmi128.mp3
 #EXTINF:0,City 90
 http://ice.abradio.cz/city90128.mp3
 #EXTINF:0,City 80
