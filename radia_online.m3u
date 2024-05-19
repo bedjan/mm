@@ -9,6 +9,8 @@ http://stream.funradio.sk:8000/cs128.mp3
 https://ice.abradio.cz/fajnfresh128.mp3
 #EXTINF:0,Helax
 http://ice.abradio.cz:8000/helax128.mp3
+#EXTINF:0,Cerna hora
+http://ice.abradio.cz/cernahora64.mp3
 #EXTINF:0,Chillout
 http://mp3stream4.abradio.cz/chillout128.mp3
 #EXTINF:0,Humor 64
