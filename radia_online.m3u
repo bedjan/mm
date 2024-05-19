@@ -13,6 +13,38 @@ http://ice.abradio.cz:8000/helax128.mp3
 http://ice.abradio.cz/cernahora64.mp3
 #EXTINF:0,Rock radio
 https://ice.abradio.cz/rockradio128.mp3
+#EXTINF:0,Dance radio
+http://ice.actve.net/dance-radio128.mp3
+#EXTINF:0,Express radio
+http://icecast5.play.cz/expres128mp3
+#EXTINF:0,Fajn radio
+https://ice.abradio.cz/fajn128.mp3
+#EXTINF:0,Contact radio
+https://ice3.abradio.cz/hitradiocontact128.mp3
+#EXTINF:0,Poprock radio
+http://ice.abradio.cz:8000/hitpoprock128.mp3
+#EXTINF:0,Nonstop radio
+http://stream.nonstopradio.cz:8080
+#EXTINF:0,Oldies radio
+http://ice.abradio.cz/oldiesradio128.mp3
+#EXTINF:0,Radio1
+http://icecast1.play.cz/radio1.mp3
+#EXTINF:0,Bonton
+http://ice.actve.net/fm-bonton-128
+#EXTINF:0,Cesky jukebox
+http://sc.ipip.cz:8046/
+#EXTINF:0,Depeche mode
+https://ice4.abradio.cz/depeche128.mp3
+#EXTINF:0,Radio Hey
+http://icecast3.play.cz/hey-radio128.mp3
+#EXTINF:0,Radio Impuls
+http://icecast5.play.cz/impuls128.mp3
+#EXTINF:0,Radio Spin
+http://icecast4.play.cz/spin128.mp3
+#EXTINF:0,Radio Seejay
+http://live.seejay.cz/seejay128.mp3
+#EXTINF:0,Radio Sex radio
+http://sc.ipip.cz:7980
 #EXTINF:0,Chillout
 http://mp3stream4.abradio.cz/chillout128.mp3
 #EXTINF:0,Humor 64
