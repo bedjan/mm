@@ -5,6 +5,8 @@ http://ice.actve.net/fm-evropa2-128
 https://stream.rcs.revma.com/asn0cmvb938uv
 #EXTINF:0,Fun radio
 http://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:0,Fun radio fresh
+https://ice.abradio.cz/fajnfresh128.mp3
 #EXTINF:0,Chillout
 http://mp3stream4.abradio.cz/chillout128.mp3
 #EXTINF:0,Humor 64
