@@ -3,6 +3,12 @@
 http://ice.actve.net/fm-evropa2-128
 #EXTINF:0,Kiss
 https://stream.rcs.revma.com/asn0cmvb938uv
+#EXTINF:0,City milenium
+http://ice.abradio.cz:8000/hitmi128.mp3
+#EXTINF:0,City 90
+http://ice.abradio.cz/city90128.mp3
+#EXTINF:0,City 80
+http://ice.abradio.cz/city80128.mp3
 #EXTINF:0,Fun radio
 http://stream.funradio.sk:8000/cs128.mp3
 #EXTINF:0,Fun radio fresh
@@ -53,22 +59,8 @@ http://mp3stream4.abradio.cz:8000/humor.mp3
 http://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3
 #EXTINF:0,Sky Radio 80's Hits
 http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3
-#EXTINF:0,City milenium
-http://ice.abradio.cz:8000/hitmi128.mp3
-#EXTINF:0,City 90
-http://ice.abradio.cz/city90128.mp3
-#EXTINF:0,City 80
-http://ice.abradio.cz/city80128.mp3
 #EXTINF:0,Humor 128
 http://mp3stream4.abradio.cz:8000/humor128.mp3
-#EXTINF:0,Ohen_v_krbu 128
-http://ice6.abradio.cz/relax-fire128.mp3
-#EXTINF:0,Pohadka 128
-http://ice3.abradio.cz/pohadka128.mp3
-#EXTINF:0,Povidka 128
-http://ice3.abradio.cz/povidka128.mp3
-#EXTINF:0,Pohadky_domino
-http://mp3stream4.abradio.cz/domino128.mp3
 #EXTINF:0,Folk
 http://mp3stream2.abradio.cz:8000/folk.mp3
 #EXTINF:0,Blanik
@@ -90,4 +82,12 @@ http://ice6.abradio.cz/relax-thunder-rain128.mp3
 #EXTINF:0,Zpev_ptaku
 http://ice6.abradio.cz/relax-morning-birds128.mp3
 #EXTINF:0,Ohen v krbu
-http://ice6.abradio.cz/relax-fire128.mp3 
+http://ice6.abradio.cz/relax-fire128.mp3
+#EXTINF:0,Ohen_v_krbu 128
+http://ice6.abradio.cz/relax-fire128.mp3
+#EXTINF:0,Pohadka 128
+http://ice3.abradio.cz/pohadka128.mp3
+#EXTINF:0,Povidka 128
+http://ice3.abradio.cz/povidka128.mp3
+#EXTINF:0,Pohadky_domino
+http://mp3stream4.abradio.cz/domino128.mp3
