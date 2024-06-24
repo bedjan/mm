@@ -7,6 +7,8 @@ http://mpc1.mediacp.eu:8342/stream
 http://ice.actve.net/fm-evropa2-128
 #EXTINF:0,Comedy club radio Diana
 https://westradio.cz/radio/8010/radio.mp3
+#EXTINF:0,Radio beat
+https://radia.cz/spa/assets/c8516a638fbaff4ae963.mp3
 #EXTINF:0,City milenium
 http://ice.abradio.cz:8000/hitmi128.mp3
 #EXTINF:0,City 90
